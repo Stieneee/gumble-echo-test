@@ -1,0 +1,7 @@
+.env
+main
+mumble-discord-bridge
+dist
+bridge
+.prof
+cert.pem
