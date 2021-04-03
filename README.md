@@ -16,8 +16,11 @@ When a message is received this application prints the number of ping and pongs,
 ### Server
 
 Murmur 1.3.0
+
 Digital Ocean Server
+
 Nothing interesting in the Murmur logs.
+
 
 ### Clients
 
